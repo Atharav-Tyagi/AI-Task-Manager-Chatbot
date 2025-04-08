@@ -1,0 +1,268 @@
+2025-04-06 14:51:29,150 - __main__ - INFO - Gemini chatbot initialized successfully
+2025-04-06 14:51:29,151 - __main__ - INFO - Chatbot initialized successfully
+2025-04-06 14:51:29,276 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://172.21.165.67:3000
+2025-04-06 14:51:29,277 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 14:51:29,281 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 14:51:30,514 - __main__ - INFO - Gemini chatbot initialized successfully
+2025-04-06 14:51:30,514 - __main__ - INFO - Chatbot initialized successfully
+2025-04-06 14:51:30,533 - werkzeug - WARNING -  * Debugger is active!
+2025-04-06 14:51:30,538 - werkzeug - INFO -  * Debugger PIN: 638-638-166
+2025-04-06 14:53:49,834 - werkzeug - INFO -  * Detected change in 'C:\\Users\\tyagi\\OneDrive\\Desktop\\AICHATBOT\\app.py', reloading
+2025-04-06 14:53:49,954 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 14:53:51,648 - __main__ - INFO - Gemini chatbot initialized successfully
+2025-04-06 14:53:51,650 - __main__ - INFO - Chatbot initialized successfully
+2025-04-06 14:53:51,697 - werkzeug - WARNING -  * Debugger is active!
+2025-04-06 14:53:51,708 - werkzeug - INFO -  * Debugger PIN: 638-638-166
+2025-04-06 14:54:04,049 - __main__ - INFO - Gemini chatbot initialized successfully
+2025-04-06 14:54:04,049 - __main__ - INFO - Chatbot initialized successfully
+2025-04-06 14:54:04,083 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://172.21.165.67:3000
+2025-04-06 14:54:04,083 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 14:54:04,085 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 14:54:05,446 - __main__ - INFO - Gemini chatbot initialized successfully
+2025-04-06 14:54:05,446 - __main__ - INFO - Chatbot initialized successfully
+2025-04-06 14:54:05,492 - werkzeug - WARNING -  * Debugger is active!
+2025-04-06 14:54:05,498 - werkzeug - INFO -  * Debugger PIN: 638-638-166
+2025-04-06 14:57:27,313 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 14:57:27] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-06 14:57:30,939 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 14:57:30] "POST /api/chat HTTP/1.1" 200 -
+2025-04-06 14:57:50,821 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 14:57:50] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-06 14:57:52,518 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 14:57:52] "POST /api/chat HTTP/1.1" 200 -
+2025-04-06 15:02:15,984 - werkzeug - INFO -  * Detected change in 'C:\\Users\\tyagi\\OneDrive\\Desktop\\AICHATBOT\\app.py', reloading
+2025-04-06 15:02:18,164 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 15:03:21,914 - __main__ - INFO - Task Manager initialized successfully
+2025-04-06 15:03:21,915 - __main__ - INFO - Task Manager initialized successfully
+2025-04-06 15:03:21,985 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://172.21.165.67:3000
+2025-04-06 15:03:21,986 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 15:03:21,989 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 15:03:23,704 - __main__ - INFO - Task Manager initialized successfully
+2025-04-06 15:03:23,704 - __main__ - INFO - Task Manager initialized successfully
+2025-04-06 15:03:23,745 - werkzeug - WARNING -  * Debugger is active!
+2025-04-06 15:03:23,752 - werkzeug - INFO -  * Debugger PIN: 638-638-166
+2025-04-06 15:03:29,741 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 15:03:29] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-06 15:03:33,625 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 15:03:33] "POST /api/chat HTTP/1.1" 200 -
+2025-04-06 15:04:10,678 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 15:04:10] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-06 15:04:13,504 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 15:04:13] "POST /api/chat HTTP/1.1" 200 -
+2025-04-06 15:05:50,528 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 15:05:50] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-06 15:05:53,315 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 15:05:53] "POST /api/chat HTTP/1.1" 200 -
+2025-04-06 15:06:01,704 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 15:06:01] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-06 15:06:04,336 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 15:06:04] "POST /api/chat HTTP/1.1" 200 -
+2025-04-06 15:06:10,918 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 15:06:10] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-06 15:06:13,828 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 15:06:13] "POST /api/chat HTTP/1.1" 200 -
+2025-04-06 15:09:56,100 - werkzeug - INFO -  * Detected change in 'C:\\Users\\tyagi\\OneDrive\\Desktop\\AICHATBOT\\app.py', reloading
+2025-04-06 15:09:58,271 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 15:09:59,998 - __main__ - INFO - Task Manager initialized successfully
+2025-04-06 15:09:59,999 - __main__ - INFO - Task Manager initialized successfully
+2025-04-06 15:10:00,077 - werkzeug - WARNING -  * Debugger is active!
+2025-04-06 15:10:00,083 - werkzeug - INFO -  * Debugger PIN: 638-638-166
+2025-04-06 15:10:07,655 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 15:10:07] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-06 15:10:11,096 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 15:10:11] "POST /api/chat HTTP/1.1" 200 -
+2025-04-06 15:10:52,544 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 15:10:52] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-06 15:10:54,846 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 15:10:54] "POST /api/chat HTTP/1.1" 200 -
+2025-04-06 15:11:23,626 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 15:11:23] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-06 15:11:26,149 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 15:11:26] "POST /api/chat HTTP/1.1" 200 -
+2025-04-06 15:12:57,132 - werkzeug - INFO -  * Detected change in 'C:\\Users\\tyagi\\OneDrive\\Desktop\\AICHATBOT\\app.py', reloading
+2025-04-06 15:12:59,333 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 15:13:01,136 - __main__ - INFO - Task Manager initialized successfully
+2025-04-06 15:13:01,137 - __main__ - INFO - Task Manager initialized successfully
+2025-04-06 15:13:01,183 - werkzeug - WARNING -  * Debugger is active!
+2025-04-06 15:13:01,190 - werkzeug - INFO -  * Debugger PIN: 638-638-166
+2025-04-06 15:13:03,421 - werkzeug - INFO -  * Detected change in 'C:\\Users\\tyagi\\OneDrive\\Desktop\\AICHATBOT\\app.py', reloading
+2025-04-06 15:13:03,596 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 15:13:05,411 - __main__ - INFO - Task Manager initialized successfully
+2025-04-06 15:13:05,414 - __main__ - INFO - Task Manager initialized successfully
+2025-04-06 15:13:05,449 - werkzeug - WARNING -  * Debugger is active!
+2025-04-06 15:13:05,457 - werkzeug - INFO -  * Debugger PIN: 638-638-166
+2025-04-06 15:13:23,405 - werkzeug - INFO -  * Detected change in 'C:\\Users\\tyagi\\OneDrive\\Desktop\\AICHATBOT\\app.py', reloading
+2025-04-06 15:13:23,622 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 15:13:25,443 - __main__ - INFO - Task Manager initialized successfully
+2025-04-06 15:13:25,444 - __main__ - INFO - Task Manager initialized successfully
+2025-04-06 15:13:25,480 - werkzeug - WARNING -  * Debugger is active!
+2025-04-06 15:13:25,489 - werkzeug - INFO -  * Debugger PIN: 638-638-166
+2025-04-06 15:13:30,818 - werkzeug - INFO -  * Detected change in 'C:\\Users\\tyagi\\OneDrive\\Desktop\\AICHATBOT\\app.py', reloading
+2025-04-06 15:13:30,989 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 15:13:32,933 - __main__ - INFO - Task Manager initialized successfully
+2025-04-06 15:13:32,934 - __main__ - INFO - Task Manager initialized successfully
+2025-04-06 15:13:32,973 - werkzeug - WARNING -  * Debugger is active!
+2025-04-06 15:13:32,981 - werkzeug - INFO -  * Debugger PIN: 638-638-166
+2025-04-06 15:13:34,162 - werkzeug - INFO -  * Detected change in 'C:\\Users\\tyagi\\OneDrive\\Desktop\\AICHATBOT\\app.py', reloading
+2025-04-06 15:13:34,356 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 15:13:36,185 - __main__ - INFO - Task Manager initialized successfully
+2025-04-06 15:13:36,186 - __main__ - INFO - Task Manager initialized successfully
+2025-04-06 15:13:36,235 - werkzeug - WARNING -  * Debugger is active!
+2025-04-06 15:13:36,243 - werkzeug - INFO -  * Debugger PIN: 638-638-166
+2025-04-06 15:13:37,375 - werkzeug - INFO -  * Detected change in 'C:\\Users\\tyagi\\OneDrive\\Desktop\\AICHATBOT\\app.py', reloading
+2025-04-06 15:13:37,618 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 15:13:39,390 - __main__ - INFO - Task Manager initialized successfully
+2025-04-06 15:13:39,391 - __main__ - INFO - Task Manager initialized successfully
+2025-04-06 15:13:39,426 - werkzeug - WARNING -  * Debugger is active!
+2025-04-06 15:13:39,434 - werkzeug - INFO -  * Debugger PIN: 638-638-166
+2025-04-06 15:13:41,639 - werkzeug - INFO -  * Detected change in 'C:\\Users\\tyagi\\OneDrive\\Desktop\\AICHATBOT\\app.py', reloading
+2025-04-06 15:13:41,788 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 15:13:43,749 - __main__ - INFO - Task Manager initialized successfully
+2025-04-06 15:13:43,750 - __main__ - INFO - Task Manager initialized successfully
+2025-04-06 15:13:43,782 - werkzeug - WARNING -  * Debugger is active!
+2025-04-06 15:13:43,799 - werkzeug - INFO -  * Debugger PIN: 638-638-166
+2025-04-06 15:13:44,953 - werkzeug - INFO -  * Detected change in 'C:\\Users\\tyagi\\OneDrive\\Desktop\\AICHATBOT\\app.py', reloading
+2025-04-06 15:13:45,152 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 15:13:47,206 - __main__ - INFO - Task Manager initialized successfully
+2025-04-06 15:13:47,207 - __main__ - INFO - Task Manager initialized successfully
+2025-04-06 15:13:47,248 - werkzeug - WARNING -  * Debugger is active!
+2025-04-06 15:13:47,256 - werkzeug - INFO -  * Debugger PIN: 638-638-166
+2025-04-06 15:16:13,475 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 15:16:13] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-06 15:16:17,926 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 15:16:17] "POST /api/chat HTTP/1.1" 200 -
+2025-04-06 15:18:44,918 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 15:18:44] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-06 15:18:47,425 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 15:18:47] "POST /api/chat HTTP/1.1" 200 -
+2025-04-06 15:23:29,426 - werkzeug - INFO -  * Detected change in 'C:\\Users\\tyagi\\OneDrive\\Desktop\\AICHATBOT\\app.py', reloading
+2025-04-06 15:23:32,227 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 15:23:33,923 - __main__ - INFO - Task Manager initialized successfully
+2025-04-06 15:23:33,924 - __main__ - INFO - Task Manager initialized successfully
+2025-04-06 15:23:33,959 - werkzeug - WARNING -  * Debugger is active!
+2025-04-06 15:23:33,966 - werkzeug - INFO -  * Debugger PIN: 638-638-166
+2025-04-06 15:23:46,404 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 15:23:46] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-06 15:23:50,359 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 15:23:50] "POST /api/chat HTTP/1.1" 200 -
+2025-04-06 15:49:32,262 - werkzeug - INFO -  * Detected change in 'C:\\Users\\tyagi\\OneDrive\\Desktop\\AICHATBOT\\app.py', reloading
+2025-04-06 15:49:34,453 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 16:34:31,952 - __main__ - INFO - Enhanced Task Manager initialized
+2025-04-06 16:34:32,014 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://172.21.165.67:3000
+2025-04-06 16:34:32,015 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 16:34:32,017 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 16:34:34,192 - __main__ - INFO - Enhanced Task Manager initialized
+2025-04-06 16:34:34,218 - werkzeug - WARNING -  * Debugger is active!
+2025-04-06 16:34:34,225 - werkzeug - INFO -  * Debugger PIN: 638-638-166
+2025-04-06 16:34:40,713 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 16:34:40] "[31m[1mGET /api/chat HTTP/1.1[0m" 405 -
+2025-04-06 16:34:40,784 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 16:34:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-06 16:34:49,902 - __main__ - ERROR - Chat error: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-06 16:34:49,904 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 16:34:49] "[35m[1mPOST /api/chat HTTP/1.1[0m" 500 -
+2025-04-06 17:25:18,790 - werkzeug - INFO -  * Detected change in 'C:\\Users\\tyagi\\OneDrive\\Desktop\\AICHATBOT\\app.py', reloading
+2025-04-06 17:25:19,132 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 17:25:21,402 - __main__ - INFO - Task Manager initialized successfully
+2025-04-06 17:25:21,428 - werkzeug - WARNING -  * Debugger is active!
+2025-04-06 17:25:21,437 - werkzeug - INFO -  * Debugger PIN: 638-638-166
+2025-04-06 18:04:32,058 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 18:04:32] "[31m[1mGET /api/chat HTTP/1.1[0m" 405 -
+2025-04-07 14:10:31,965 - __main__ - INFO - Task Manager initialized successfully
+2025-04-07 14:10:32,118 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://10.35.2.181:3000
+2025-04-07 14:10:32,119 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 14:10:32,124 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 14:10:34,573 - __main__ - INFO - Task Manager initialized successfully
+2025-04-07 14:10:34,605 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 14:10:34,619 - werkzeug - INFO -  * Debugger PIN: 638-638-166
+2025-04-07 14:41:25,811 - werkzeug - INFO -  * Detected change in 'C:\\Users\\tyagi\\OneDrive\\Desktop\\AICHATBOT\\app.py', reloading
+2025-04-07 14:41:26,135 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 14:41:29,145 - __main__ - INFO - Task Manager initialized successfully
+2025-04-07 14:41:29,189 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 14:41:29,198 - werkzeug - INFO -  * Debugger PIN: 638-638-166
+2025-04-08 12:03:45,639 - __main__ - INFO - Task Manager initialized successfully
+2025-04-08 12:03:45,802 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://10.35.11.140:3000
+2025-04-08 12:03:45,803 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-08 12:03:45,807 - werkzeug - INFO -  * Restarting with stat
+2025-04-08 12:03:48,584 - __main__ - INFO - Task Manager initialized successfully
+2025-04-08 12:03:48,622 - werkzeug - WARNING -  * Debugger is active!
+2025-04-08 12:03:48,638 - werkzeug - INFO -  * Debugger PIN: 638-638-166
+2025-04-08 12:21:07,976 - werkzeug - INFO -  * Detected change in 'C:\\Users\\tyagi\\OneDrive\\Desktop\\AICHATBOT\\app.py', reloading
+2025-04-08 12:21:08,221 - werkzeug - INFO -  * Restarting with stat
+2025-04-08 12:21:10,930 - __main__ - INFO - Task Manager initialized successfully
+2025-04-08 12:21:10,963 - werkzeug - WARNING -  * Debugger is active!
+2025-04-08 12:21:10,970 - werkzeug - INFO -  * Debugger PIN: 638-638-166
+2025-04-08 16:08:08,099 - werkzeug - INFO -  * Detected change in 'C:\\Users\\tyagi\\OneDrive\\Desktop\\AICHATBOT\\app.py', reloading
+2025-04-08 16:08:08,436 - werkzeug - INFO -  * Restarting with stat
+2025-04-08 16:08:10,557 - __main__ - INFO - Task Manager initialized successfully
+2025-04-08 16:08:10,558 - __main__ - INFO - Task Manager initialized successfully
+2025-04-08 16:08:10,599 - werkzeug - WARNING -  * Debugger is active!
+2025-04-08 16:08:10,606 - werkzeug - INFO -  * Debugger PIN: 638-638-166
+2025-04-08 16:09:39,937 - __main__ - INFO - Task Manager initialized successfully
+2025-04-08 16:09:39,938 - __main__ - INFO - Task Manager initialized successfully
+2025-04-08 16:09:40,016 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.0.227:3000
+2025-04-08 16:09:40,018 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-08 16:09:40,026 - werkzeug - INFO -  * Restarting with stat
+2025-04-08 16:09:42,225 - __main__ - INFO - Task Manager initialized successfully
+2025-04-08 16:09:42,226 - __main__ - INFO - Task Manager initialized successfully
+2025-04-08 16:09:42,267 - werkzeug - WARNING -  * Debugger is active!
+2025-04-08 16:09:42,275 - werkzeug - INFO -  * Debugger PIN: 638-638-166
+2025-04-08 16:09:47,947 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 16:09:47] "GET / HTTP/1.1" 200 -
+2025-04-08 16:09:47,978 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 16:09:47] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-04-08 16:09:48,218 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 16:09:48] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-04-08 16:21:41,742 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 16:21:41] "GET / HTTP/1.1" 200 -
+2025-04-08 16:21:42,496 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 16:21:42] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-04-08 16:21:42,500 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 16:21:42] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-04-08 16:21:50,674 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 16:21:50] "POST /api/chat HTTP/1.1" 200 -
+2025-04-08 16:22:21,526 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 16:22:21] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-08 16:26:49,500 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 16:26:49] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-08 16:26:54,014 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 16:26:54] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-08 16:27:03,271 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 16:27:03] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-08 16:27:44,080 - __main__ - INFO - Task Manager initialized successfully
+2025-04-08 16:27:44,081 - __main__ - INFO - Task Manager initialized successfully
+2025-04-08 16:27:44,141 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.0.227:3000
+2025-04-08 16:27:44,141 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-08 16:27:44,143 - werkzeug - INFO -  * Restarting with stat
+2025-04-08 16:27:45,877 - __main__ - INFO - Task Manager initialized successfully
+2025-04-08 16:27:45,878 - __main__ - INFO - Task Manager initialized successfully
+2025-04-08 16:27:45,931 - werkzeug - WARNING -  * Debugger is active!
+2025-04-08 16:27:45,942 - werkzeug - INFO -  * Debugger PIN: 638-638-166
+2025-04-08 16:28:00,721 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 16:28:00] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-08 16:28:07,217 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 16:28:07] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-08 16:29:01,482 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 16:29:01] "POST /api/chat HTTP/1.1" 200 -
+2025-04-08 16:29:40,977 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 16:29:40] "GET / HTTP/1.1" 200 -
+2025-04-08 16:29:41,300 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 16:29:41] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-08 16:29:41,330 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 16:29:41] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-04-08 16:52:28,181 - werkzeug - INFO -  * Detected change in 'C:\\Users\\tyagi\\OneDrive\\Desktop\\AICHATBOT\\app.py', reloading
+2025-04-08 16:52:28,215 - werkzeug - INFO -  * Detected change in 'C:\\Users\\tyagi\\OneDrive\\Desktop\\AICHATBOT\\app.py', reloading
+2025-04-08 16:52:28,315 - werkzeug - INFO -  * Detected change in 'C:\\Users\\tyagi\\OneDrive\\Desktop\\AICHATBOT\\app.py', reloading
+2025-04-08 16:52:28,400 - werkzeug - INFO -  * Restarting with stat
+2025-04-08 16:52:28,450 - werkzeug - INFO -  * Restarting with stat
+2025-04-08 16:52:30,545 - werkzeug - INFO -  * Restarting with stat
+2025-04-08 16:52:30,640 - __main__ - INFO - Task Manager initialized successfully
+2025-04-08 16:52:30,641 - __main__ - INFO - Task Manager initialized successfully
+2025-04-08 16:52:30,642 - __main__ - INFO - Task Manager initialized successfully
+2025-04-08 16:52:30,642 - __main__ - INFO - Task Manager initialized successfully
+2025-04-08 16:52:30,677 - werkzeug - WARNING -  * Debugger is active!
+2025-04-08 16:52:30,681 - werkzeug - WARNING -  * Debugger is active!
+2025-04-08 16:52:30,692 - werkzeug - INFO -  * Debugger PIN: 638-638-166
+2025-04-08 16:52:30,692 - werkzeug - INFO -  * Debugger PIN: 638-638-166
+2025-04-08 16:52:32,572 - __main__ - INFO - Task Manager initialized successfully
+2025-04-08 16:52:32,573 - __main__ - INFO - Task Manager initialized successfully
+2025-04-08 16:52:32,605 - werkzeug - WARNING -  * Debugger is active!
+2025-04-08 16:52:32,613 - werkzeug - INFO -  * Debugger PIN: 638-638-166
+2025-04-08 17:39:18,379 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 17:39:18] "GET / HTTP/1.1" 200 -
+2025-04-08 17:39:18,396 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 17:39:18] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2025-04-08 17:39:18,603 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 17:39:18] "[33mGET /script.js HTTP/1.1[0m" 404 -
+2025-04-08 17:39:18,933 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 17:39:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-08 17:40:04,836 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 17:40:04] "GET / HTTP/1.1" 200 -
+2025-04-08 17:40:05,196 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 17:40:05] "[33mGET /script.js HTTP/1.1[0m" 404 -
+2025-04-08 17:40:05,219 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 17:40:05] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-04-08 17:40:05,661 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 17:40:05] "GET / HTTP/1.1" 200 -
+2025-04-08 17:40:05,683 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 17:40:05] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-08 17:40:05,908 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 17:40:05] "[33mGET /script.js HTTP/1.1[0m" 404 -
+2025-04-08 17:40:34,297 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 17:40:34] "GET / HTTP/1.1" 200 -
+2025-04-08 17:40:34,310 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 17:40:34] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-08 17:40:34,592 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 17:40:34] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-04-08 17:41:06,131 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 17:41:06] "POST /api/chat HTTP/1.1" 200 -
+2025-04-08 17:41:55,087 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 17:41:55] "POST /api/chat HTTP/1.1" 200 -
+2025-04-08 17:42:20,507 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 17:42:20] "POST /api/chat HTTP/1.1" 200 -
+2025-04-08 17:42:52,547 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 17:42:52] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-08 17:42:58,713 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 17:42:58] "GET / HTTP/1.1" 200 -
+2025-04-08 17:42:58,745 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 17:42:58] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-08 17:42:58,967 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 17:42:58] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-04-08 17:44:59,958 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 17:44:59] "POST /api/chat HTTP/1.1" 200 -

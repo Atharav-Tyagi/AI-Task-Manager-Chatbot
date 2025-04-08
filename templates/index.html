@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task Management Bot</title>
+    <link rel="stylesheet" href="/static/css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/confetti-js@0.0.18/dist/index.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><i class="fas fa-tasks"></i> Task Management Bot</h1>
+            <p>Your AI-powered assistant for managing tasks and projects</p>
+        </header>
+        
+        <main>
+            <div class="chat-container">
+                <div class="chat-messages" id="chat-messages">
+                    <!-- Messages will be added here dynamically -->
+                </div>
+                
+                <div class="chat-input">
+                    <form id="message-form">
+                        <input type="text" id="user-input" placeholder="Type your message here..." required>
+                        <button type="submit">
+                            <i class="fas fa-paper-plane"></i>
+                        </button>
+                    </form>
+                </div>
+            </div>
+            
+            <div class="sidebar">
+                <div class="sidebar-section">
+                    <h3><i class="fas fa-info-circle"></i> Quick Tips</h3>
+                    <ul>
+                        <li>Type "help" for assistance</li>
+                        <li>Be specific about deadlines</li>
+                        <li>Ask for task summaries</li>
+                    </ul>
+                </div>
+                
+                <div class="sidebar-section">
+                    <h3><i class="fas fa-lightbulb"></i> Example Commands</h3>
+                    <div class="example-command" onclick="fillCommand('Create a task to finish the project proposal by Friday')">
+                        Create a task to finish the project proposal by Friday
+                    </div>
+                    <div class="example-command" onclick="fillCommand('What are my highest priority tasks?')">
+                        What are my highest priority tasks?
+                    </div>
+                    <div class="example-command" onclick="fillCommand('Remind me to call John tomorrow at 2pm')">
+                        Remind me to call John tomorrow at 2pm
+                    </div>
+                </div>
+                
+                <!-- Task History will be added here dynamically -->
+            </div>
+        </main>
+        
+        <footer>
+            <p>Task Management Assistant &copy; 2023 | Voice commands available in Chrome</p>
+        </footer>
+    </div>
+    
+    <script src="/static/js/script.js"></script>
+</body>
+</html>
